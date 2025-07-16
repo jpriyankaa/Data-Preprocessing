@@ -8,3 +8,4 @@ Whether you're preparing for interviews or building a solid portfolio, this proj
 📊 Explore insights visually and statistically  
 🧱 Engineer powerful features  
 🎯 Evaluate models with all real-world metrics  
+-   Class Imbalance
